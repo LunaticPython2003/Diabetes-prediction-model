@@ -1,5 +1,5 @@
 # Diabetes-prediction-model
-This model was created to prdeict the early stages of diabetes risk
+This model was created to predict the early stages of diabetes risk
 
 # Dependencies
 1. Pandas
