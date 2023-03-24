@@ -48,8 +48,8 @@ if st.checkbox('Obesity'):
 
 if st.button('Predict'):
     st.write(data)
-    with open("../prediction.csv", "w", newline="") as f:
-        writer = csv.writer(f)
-        writer.writerow(headings)
-        for i in range(len(headings)):
-            if 
+    # with open("../prediction.csv", "w", newline="") as f:
+    #     writer = csv.writer(f)
+    #     writer.writerow(headings)
+    #     for i in range(len(headings)):
+    #         if 
